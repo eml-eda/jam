@@ -1,2 +1,3 @@
 *.mlir
+*.h
 __pycache__
